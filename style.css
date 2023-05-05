@@ -1,0 +1,31 @@
+body {
+	background-color: #f6f6f6;
+}
+
+.card {
+	margin-top: 50px;
+	height:700px;
+	width:400px;
+	margin-left: 20px;
+}
+
+.btn-link {
+	text-decoration: underline;
+	cursor: pointer;
+}
+.button-1{
+	margin-left: 10px;
+}
+.form-control{
+	background-color: #c7bebe;
+	border-radius: 5;
+	width:270px;
+	margin-left: 30px;
+}
+.button-2{
+	margin-left:90px ;
+	width:140px;
+}
+.label{
+	margin-left: 30px;
+}
